@@ -3,6 +3,7 @@
 ### syntax if customize file is there
    ```
 terraform apply -var-file=demo.tfvars
+```
 
 ### if the tfvars files has auto then it automatically get the valus from that file.
 ```
